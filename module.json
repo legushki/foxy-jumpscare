@@ -9,6 +9,7 @@
     }
   ],
   "version": "1.0.0",
+  "manifest": "https://raw.githubusercontent.com/legushki/foxy-jumpscare/refs/heads/main/module.json",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -17,5 +18,6 @@
     "scripts/foxy-jumpscare.js"
   ],
   "socket": true,
-  "id": "foxy-jumpscare"
+  "id": "foxy-jumpscare",
+  "url": "https://github.com/legushki/foxy-jumpscare"
 }
