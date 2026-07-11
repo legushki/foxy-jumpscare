@@ -1,0 +1,21 @@
+{
+  "title": "Random Foxy Jumpscare",
+  "description": "Every second there's a 1 in 10000 chance of a foxy jumpscare",
+  "authors": [
+    {
+      "name": "legushka",
+      "discord": "legushkaaaa",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "scripts": [
+    "scripts/foxy-jumpscare.js"
+  ],
+  "socket": true,
+  "id": "foxy-jumpscare"
+}
