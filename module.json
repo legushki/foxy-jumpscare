@@ -9,7 +9,8 @@
     }
   ],
   "version": "1.0.0",
-  "manifest": "https://raw.githubusercontent.com/legushki/foxy-jumpscare/refs/heads/main/module.json",
+  "manifest": "https://github.com/legushki/foxy-jumpscare/releases/latest/download/module.json",
+  "download": "https://github.com/legushki/foxy-jumpscare/releases/download/1.0.0/module.zip",
   "compatibility": {
     "minimum": "11",
     "verified": "12"
@@ -21,3 +22,4 @@
   "id": "foxy-jumpscare",
   "url": "https://github.com/legushki/foxy-jumpscare"
 }
+
